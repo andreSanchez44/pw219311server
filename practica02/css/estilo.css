@@ -16,7 +16,7 @@ header nav ul li{
 	border-bottom: 1px solid lightgray;
 	color: lightgray;
 	display: inline-block;
-	font-size: 1.8px;
+	font-size: 1.8em;
 	margin-right: 15px;
 	padding-bottom: 5px;
 	/*text-decoration: underline;*/
@@ -41,6 +41,25 @@ header nav ul li{
 	display: inline-block;
 	vertical-align: top;
 }
+#segundaSeccion article{
+	padding-right: 122px;
+	text-align: right;
+}
+#terceraSeccion article{
+	display: inline-block;
+	width: 23%;
+	vertical-align: top;
+}
+#terceraSeccion article img{
+	vertical-align: middle;
+}
+#terceraSeccion article input{
+	border-radius: 5px;
+}
+#terceraSeccion article input[type="button"]{
+	background: #8BC500;
+
+}
 #secc01art01{
 	margin-left: 30px;
 	width: 60%;
@@ -49,5 +68,27 @@ header nav ul li{
 #secc01art02{
 	margin-left: 50px;
 	width: 30%;
-
+}
+#secc03art04{
+	padding-left: 25px;
+	padding-top: 40px;
+}
+.colorazul{
+	color: #4267B3;
+}
+.colorverde{
+	color: #8BC500;
+}
+.colorrosa
+{
+	color: #FF0099;
+}
+.letragrande{
+	font-size: 3.5em;
+}
+.letramediana{
+	font-size: 2em;
+}
+.nito{
+	font-weight: bold;
 }
