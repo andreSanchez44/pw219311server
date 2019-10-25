@@ -1,0 +1,163 @@
+body{
+	font-size: 16px;
+	margin: 0px auto;
+	max-width: 1078px;
+}
+header{
+	border-bottom-style: dashed;
+	border-color: #a6a6a6;
+	border-width: 2px;
+	margin: 0px auto;
+	width: 110%;
+}
+header nav ul li{
+	display: inline-block;
+	list-style: none;
+	margin-bottom: 25px;
+	margin-right: 20px;
+	padding-top: 60px;
+}
+#banderas{
+	float: right;
+}
+#art01_1{
+	border-bottom-style: dashed;
+	border-color: #a6a6a6;
+	border-width: 2px;
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+#buy{
+	text-align: right;
+	margin-bottom: 20px;
+	margin-top: 110px;
+	float: right;
+}
+#gts{
+	text-align: right;
+	margin-top: 40px;
+	float: right;
+
+}
+#art01{
+	padding-top: 20px;
+	border-bottom-style: dashed;
+	border-color: #a6a6a6;
+	margin-bottom: 35px;
+}
+#bike1{
+	vertical-align: top;
+}
+#logoFB{
+	text-align: left;
+	display: inline-block;
+	vertical-align: top;
+	padding-top: 15px;
+}
+#logosF{
+	width: 15%;
+}
+#seccion01{
+	margin: 0px auto;
+	width: 100%;
+	display:flex;
+	align-items: stretch;
+}
+#sec01art01{
+	vertical-align: top;
+	display: inline-block;
+	margin-right: 20px;
+	text-align: left;
+	width: 60%;
+}
+#sec01art02{
+	display: inline-block;
+	vertical-align: top;
+	width: 30%; 
+
+}
+#secc03art01{
+	display: inline-block;
+	text-align: left;
+	margin-right: 10px;
+	margin-left: 10px;
+	width: 15%;
+}
+#secc03art02{
+	display: inline-block;
+	text-align: left;
+	margin-right: 10px;
+	margin-left: 10px;
+	width: 15%;
+}
+#secc03art03{
+	vertical-align: top;
+	display: inline-block;
+	text-align: left;
+	margin-right: 10px;
+	margin-left: 10px;
+	width: 15%;
+}
+#secc03art04{
+	vertical-align: top;
+	display: inline-block;
+	text-align: left;
+	margin-right: 10px;
+	margin-left: 10px;
+	width: 17%;
+}
+#secc03art05{
+	vertical-align: top;
+	display: inline-block;
+	text-align: left;
+	margin-right: 10px;
+	margin-left: 10px;
+	width: 17%;
+}
+#seccion03 footer article span{
+	position: relative;
+	top: -18px;
+	display: inline-block;
+	margin-bottom: 10px;
+}
+#vid1{
+	margin-top: 135px;
+	margin-right: 20px;
+	margin-left: 20px;
+	height: 130px;
+	display: inline-block;
+	width: 40%;
+}
+#vid2{
+	display: inline-block;
+	margin-top: 135px;
+	margin-right: 20px;
+	margin-left: 20px;
+	height: 130px;
+	width: 40%;
+}
+#fiveY{
+	display: block;
+	position: absolute;
+	top: 690px;
+}
+.colorG{
+	color: #a6a6a6;
+}
+.colorGF{
+	border: 2px solid #c7c7c7;
+}
+.letraG{
+	font-size: 4.5em;
+}
+.letraM{
+	font-size: 1.2em;
+}
+.colorVerde{
+	color: #78f14c;
+}
+.nito{
+	font-weight: bold;
+}
+
