@@ -1,0 +1,77 @@
+body{
+	font-size: 16px; 
+	margin: 0px auto; 
+	max-width: 1078px; 
+	min-width: 1078px; 
+}
+header{
+	display: inline-block;
+	width: 95%;		
+	vertical-align: top; 	
+	border-bottom: 2px solid black;
+	text-align: 	
+}
+header article{
+	display: inline-block;	
+}
+header h1{
+	text-align: center;
+	display: inline-block;
+	margin-right: 220px;
+	margin-left: 220px;		
+}
+header p{
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 10px;			
+}
+section article{
+	display: inline-block;
+}
+#menu{
+	display: inline-block;
+	text-align: left;
+}
+#lupa{
+	text-align: right;
+	display: inline-block;
+}
+#art01{
+	width: 60%;
+}
+#art01 img{
+	width: 60%;
+	margin-right: 30px; 
+	margin-top: 15px;
+	display: inline-block;
+}
+#art02{
+	border-left: 2px solid black;
+	display: inline-block;
+	margin-top: 15px;
+	padding-left: 30px;
+	width: 20%;
+}
+#art02 img{
+	width: 50%;
+	display: inline-block;
+}
+#Striped{
+	display: inline-block;
+}
+#darck{
+	vertical-align: bottom;
+}
+#art01 h1{
+	position: absolute;
+	margin-top: 150px;
+}
+#art01 article{
+	margin-left: 60px;
+}
+.letraG{
+	font-size: 2em;
+}
+.colorG{
+	color: grey;
+}
